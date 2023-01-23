@@ -1,0 +1,58 @@
+.headerContainer{
+    top: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: lightsalmon;
+    height: 104px;
+    border: 1px solid black;
+    border-radius: 5px;
+    /* UI Properties */
+    opacity: 1;
+}
+
+.logoContainer{
+   
+    margin-left: 100px;
+    
+    display: flex;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 64px/85px Palatino;
+    letter-spacing: 0px;
+    color: #006238;
+    opacity: 1;
+}
+
+.headerLogo{
+    top: 9px;
+    left: 100px;
+    left: 200px;
+    width: 64px;
+    height: 64px;
+    align-self: center;
+    /* UI Properties */
+    background: transparent url('image/icon.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.headerText{
+    top: 9px;
+    left: 274px;
+    width: 287px;
+    height: 85px;
+    align-self: center;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 64px/85px Palatino;
+    letter-spacing: 0px;
+    color: #006238;
+    opacity: 1;
+}
+
+.cameraLogo{
+    width: 70px;
+    align-self: center;
+    margin: 5px 100px 5px auto ;
+}
+
+
